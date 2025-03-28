@@ -52,24 +52,8 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdey412&show_icons=true&locale=en&theme=dark" alt="Deepak's GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdey412&theme=dark" alt="Deepak's GitHub Streak" />
-</p>
 
 ---
-
-<h3 align="left">🚀 Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepakdey412" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Deepak Dey | LinkedIn" height="40" width="40" />
-  </a>
-  <a href="mailto:deepakdey412@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" width="40" />
-  </a>
-</p>
