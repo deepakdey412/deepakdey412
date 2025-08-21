@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Dey</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A Passionate Java Backend Developer from India</h3>
 
 <img align="right" alt="Coding" width="250" 
@@ -45,6 +45,7 @@
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdey412&show_icons=true&locale=en&theme=dark" alt="Deepak's GitHub Stats" />
+<p align="center">
+     <img width="400" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdey412&theme=dark" alt="Deepak's GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=deepakdey412&show_icons=true&locale=en&theme=dark" alt="Deepak's GitHub Stats" />
 </p>
