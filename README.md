@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A Passionate Java Backend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Deepak </h1>
+<h3 align="center">🏢 Aspiring Enterprise-Grade Java Backend Developer | Spring Boot Specialist</h3>
+
 
 <img align="right" alt="Coding" width="250" 
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
      hspace="20" vspace="10">
 
-
-- 🔭 I’m currently working on **Buddhism Community Social Media Website**  
-- 🌱 I’m currently learning **Spring Boot, Microservices, System Design**  
-- 👯 I’m looking to collaborate on **Java Backend Projects**  
-- 💡 Exploring **Scalable Backend Architectures & Cloud Deployment**  
-- 📫 How to reach me **deepakdey412@gmail.com**  
+💼 **What I Do**  
+- ⚙️ Building **scalable Java backend systems** with Spring Boot, Microservices, and REST APIs.  
+- 🔒 Designing **secure, role-based applications** with Spring Security & JWT authentication.  
+- 🗄️ Integrating **databases** (MySQL, PostgreSQL) with Spring Data JPA & Hibernate.  
+- ☁️ Exploring **Cloud Deployment** (AWS, Docker, Kubernetes) for real-world production apps.  
+- 🧠 Passionate about **System Design**, **High-Performance APIs**, and **Clean Architecture**.  
+ 
 
 ---
 
