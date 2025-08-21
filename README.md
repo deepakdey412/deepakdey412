@@ -36,6 +36,7 @@
 ---
 
 <p align="center">
-     <img width="400" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdey412&theme=dark" alt="Deepak's GitHub Streak Stats" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=deepakdey412&show_icons=true&locale=en&theme=dark" alt="Deepak's GitHub Stats" />
+    <img width="400" height="230" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepakdey412&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=deepakdey412&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
+
