@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Dey</h1>
 <h3 align="center">A Passionate Java Backend Developer from India</h3>
 
-<img align="right" alt="Coding" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycXlvaTZsdzEzazJ0NHZkNGxvamR4NGh6eDZkb29lYTRtMHVhM2lnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/source.gif">
+<img align="right" alt="Coding" width="250" 
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
+     hspace="20" vspace="20">
+
 
 - 🔭 I’m currently working on **Buddhism Community Social Media Website**  
 - 🌱 I’m currently learning **Spring Boot, Microservices, System Design**  
