@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Dey</h1>
 <h3 align="center">A Passionate Java Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **Buddhism Community Social Media Website**
-- 🌱 I’m currently learning **Spring Boot, Microservices, System Design**
-- 👯 I’m looking to collaborate on **Java Backend Projects**
-- 💡 Exploring **Scalable Backend Architectures & Cloud Deployment**
-- 📫 How to reach me **deepakdey412@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycXlvaTZsdzEzazJ0NHZkNGxvamR4NGh6eDZkb29lYTRtMHVhM2lnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/source.gif">
+
+- 🔭 I’m currently working on **Buddhism Community Social Media Website**  
+- 🌱 I’m currently learning **Spring Boot, Microservices, System Design**  
+- 👯 I’m looking to collaborate on **Java Backend Projects**  
+- 💡 Exploring **Scalable Backend Architectures & Cloud Deployment**  
+- 📫 How to reach me **deepakdey412@gmail.com**  
 
 ---
 
@@ -43,5 +45,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdey412&show_icons=true&locale=en&theme=dark" alt="Deepak's GitHub Stats" />
 </p>
-
----
