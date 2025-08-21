@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" 
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
-     hspace="20" vspace="20">
+     hspace="20" vspace="10">
 
 
 - 🔭 I’m currently working on **Buddhism Community Social Media Website**  
