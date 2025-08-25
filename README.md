@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&weight=1000&size=28&duration=2000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak" alt="Typing SVG" />
   </a>
 </h1>
+
 <h3 align="center">🏢 Aspiring Enterprise-Grade Java Backend Developer | Spring Boot Specialist</h3>
 
 
