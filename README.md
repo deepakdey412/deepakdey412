@@ -41,13 +41,19 @@
 </p>
 
 
+###
+
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
-<p>
-  <a href="https://www.linkedin.com/in/deepakdey/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:deepakdey412@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+<table width="120" align="left">
+  <tr>  
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/deepakdey/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn Logo"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="mailto:babyjesus7695@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+    </td>
+  </tr>
+</table>
+<br><br><br>
