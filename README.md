@@ -34,17 +34,9 @@
 </div>
 
 ---
-
-<p align="center">
-    <img width="400" height="230" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepakdey412&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=deepakdey412&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</p>
-
----
-
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
 
-<table width="120" align="left">
+<table width="120" align="center">
   <tr>  
     <td align="center" width="60">
       <a href="https://www.linkedin.com/in/deepakdey/">
@@ -55,4 +47,12 @@
     </td>
   </tr>
 </table>
-<br><br><br>
+
+---
+
+<p align="center">
+    <img width="400" height="230" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepakdey412&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=deepakdey412&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</p>
+
+
