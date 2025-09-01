@@ -2,8 +2,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF,FF00FF,00FF99&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak;Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%26+API+Specialist;Always+Learning+%F0%9F%93%9A+Always+Building" alt="Typing SVG" />
   </a>
+  <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=deepakdey412&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
 </h1>
 
+###
 
 <h3 align="center">🏢 Aspiring Enterprise-Grade Java Backend Developer | Spring Boot Specialist</h3>
 
