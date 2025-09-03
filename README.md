@@ -25,29 +25,75 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Features Animation"/>
 <h3 align="left">💻 Tech Stack & Tools:</h3>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring,html,css,vscode,idea,git,github" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /><br>Java 17+
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="50" height="50" /><br>Spring Boot
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /><br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br>CSS3
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" /><br>VS Code
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" /><br>IntelliJ IDEA
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="50" height="50" /><br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" /><br>Postman
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /><br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" /><br>GitHub
+</td>
+</tr>
+</table>
+</div>
 
 ---
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
 
-<table width="120" align="center">
-  <tr>  
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/deepakdey/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn Logo"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="mailto:babyjesus7695@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<a href="https://www.linkedin.com/in/deepakdey/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn Logo" /><br>LinkedIn
+</a>
+</td>
+
+<td align="center" width="100">
+<a href="mailto:deepakdey412@gmail.com">
+<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="50" height="50" alt="Email" /><br>Email
+</a>
+</td>
+
+<td align="center" width="100">
+<a href="https://your-resume-link.com">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" alt="Resume" /><br>Resume
+</a>
+</td>
+</tr>
 </table>
+
+</div>
+
 
 ---
 
