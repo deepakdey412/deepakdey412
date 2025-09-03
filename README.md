@@ -85,7 +85,7 @@
 </td>
 
 <td align="center" width="100">
-<a href="https://your-resume-link.com">
+<a href="https://github.com/deepakdey412/deepakdey412/blob/95d806b8fc52533e1cf09f4e92000174defe4359/Java%20Developer%20Resume.pdf">
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" alt="Resume" /><br>Resume
 </a>
 </td>
