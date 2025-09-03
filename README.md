@@ -26,16 +26,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Features Animation"/>
 <h3 align="left">💻 Tech Stack & Tools:</h3>
 
-<div align="center">
-
-<!-- From skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,vscode,idea,git,github,docker" />
-
-<!-- Custom hosted icons -->
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Spring Security" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
-
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,html,css,vscode,idea,git,github" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+</p>
 
 ---
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
