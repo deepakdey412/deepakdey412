@@ -22,10 +22,10 @@
 - 🗄️ Integrating **databases** (MySQL, PostgreSQL) with Spring Data JPA & Hibernate.  
 - ☁️ Exploring **Cloud Deployment** (AWS, Docker, Kubernetes) for real-world production apps.  
 - 🧠 Passionate about **System Design**, **High-Performance APIs**, and **Clean Architecture**.  
- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Features Animation"/>
-<h3 align="left">💻 Tech Stack & Tools:</h3>
-<br>
+
+--- 
+
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"> Tech Stack : </h3>
 <div align="center">
 <table>
 <tr>
