@@ -51,7 +51,7 @@
 <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" /><br>IntelliJ IDEA
 </td>
 <td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="50" height="50" /><br>Docker
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><br>Docker
 </td>
 <td align="center" width="100">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" /><br>Postman
