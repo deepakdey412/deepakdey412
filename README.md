@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">🏢 Aspiring Enterprise-Grade Java Backend Developer | Spring Boot Specialist</h3>
+<h4 align="center"><b>🏢 Aspiring Enterprise-Grade Java Backend Developer | Spring Boot Specialist</b></h4>
 
 
 <img align="right" alt="Coding" width="250" 
@@ -25,7 +25,7 @@
 
 --- 
 
-<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"> Tech Stack : </h3>
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Tech Stack : </b></h3>
 <div align="center">
 <table>
 <tr>
@@ -67,7 +67,7 @@
 </div>
 
 ---
-<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
+<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"><b>Let's Connect :</b> </h3>
 
 <div align="center">
 
@@ -75,19 +75,25 @@
 <tr>
 <td align="center" width="100">
 <a href="https://www.linkedin.com/in/deepakdey/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn Logo" /><br>LinkedIn
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn Logo" /><br>LinkedIn
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="mailto:deepakdey412@gmail.com">
-<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="50" height="50" alt="Email" /><br>Email
+<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="40" height="40" alt="Email" /><br>Email
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://github.com/deepakdey412/deepakdey412/blob/95d806b8fc52533e1cf09f4e92000174defe4359/Java%20Developer%20Resume.pdf">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" alt="Resume" /><br>Resume
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" height="40" alt="Resume" /><br>Resume
+</a>
+</td>
+
+<td align="center" width="100">
+<a href="https://leetcode.com/u/_deepak_2003_/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode Logo" /><br>LeetCode
 </a>
 </td>
 </tr>
@@ -99,8 +105,20 @@
 ---
 
 <p align="center">
-    <img width="400" height="230" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepakdey412&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png" />
+  <img height="150" align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepakdey412&count_private=true&theme=react&border_radius=10&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak stats" />
+  <img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png" />
+</p>
+
+---
+
+<p align="center">
     <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=deepakdey412&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 
+---
+
+<div align="center">
+  <h3><b>𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</b></h3>
+</div>
 
