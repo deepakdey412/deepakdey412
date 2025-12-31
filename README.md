@@ -70,39 +70,43 @@
 ---
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"><b>Let's Connect :</b> </h3>
 
-<div align="center">
-
-<table>
-<tr>
+<table align="center">
+<tr >
 <td align="center" width="100">
-<a href="https://www.linkedin.com/in/deepakdey/">
+<a href="https://www.linkedin.com/in/deepakdey/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn Logo" /><br>LinkedIn
 </a>
 </td>
 
 <td align="center" width="100">
-<a href="mailto:deepakdey412@gmail.com">
-<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="40" height="40" alt="Email" /><br>Email
+<a href="mailto:deepakdey412@gmail.com" target="_blank">
+<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png" width="40" height="40" alt="Email" /><br>Email
 </a>
 </td>
 
 <td align="center" width="100">
-<a href="https://github.com/deepakdey412/deepakdey412/blob/main/Deepak%20Dey%20Java%20developer%20Resume.pdf">
+<a href="https://github.com/deepakdey412/deepakdey412/blob/main/Deepak%20Dey%20Java%20developer%20Resume.pdf" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" height="40" alt="Resume" /><br>Resume
 </a>
 </td>
 
 <td align="center" width="100">
-<a href="https://leetcode.com/u/_deepak_2003_/">
+<a href="https://leetcode.com/u/_deepak_2003_/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode Logo" /><br>LeetCode
 </a>
 </td>
+
 <td align="center" width="100">
-  <a href="https://www.instagram.com/deepax.dev/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram Logo" /><br>Instagram
-  </a>
+<a href="https://www.instagram.com/deepax.dev/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram Logo" /><br>Instagram
+</a>
 </td>
 
+<td align="center" width="100">
+<a href="https://t.me/deepax_dev" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram Logo" /><br>Telegram
+</a>
+</td>
 </tr>
 </table>
 
