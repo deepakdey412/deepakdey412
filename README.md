@@ -97,6 +97,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode Logo" /><br>LeetCode
 </a>
 </td>
+<td align="center" width="100">
+  <a href="https://www.instagram.com/deepax.dev/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram Logo" /><br>Instagram
+  </a>
+</td>
+
 </tr>
 </table>
 
