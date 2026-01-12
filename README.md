@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Deepak;Java+Backend+Developer+💻;Spring+Boot+&+API+Specialist;Always+Learning+📚+Always+Building" alt="Typing SVG" />
   </a>
@@ -27,7 +27,35 @@
 --- 
 
 <h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Tech Stack : </b></h3>
-<div align="center">
+<div align="center"> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Deepak+Dey;Java+Backend+Engineer+💻;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Systems+Everyday+🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=deepakdey412&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<h3 align="center">🚀 Enterprise-Grade Java Backend Engineer</h3>
+<p align="center"><b>Spring Boot | REST APIs | Microservices | System Design</b></p>
+
+<img align="right" alt="Coding" width="260" 
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+     hspace="20" vspace="10">
+
+### 👨‍💻 What I Do
+
+- ⚙️ Build **scalable backend systems** using Java & Spring Boot  
+- 🔐 Implement **secure authentication & authorization** with Spring Security & JWT  
+- 🗄️ Work with **relational databases** using JPA / Hibernate  
+- ☁️ Deploy real-world apps using **Docker, AWS & Kubernetes**  
+- 🧠 Focus on **System Design, Clean Architecture & Performance Optimization**
+
+---
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Tech Stack : </b></h3>
+
 <table>
 <tr>
 <td align="center" width="100">
