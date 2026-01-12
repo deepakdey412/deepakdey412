@@ -103,76 +103,77 @@
 </td>
 </tr>
 </table> -->
+
 <table align="center">
 <tr>
 
 <td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="36" height="36"/><br>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="36"/><br>
   <span style="font-size:12px;">Java</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36" height="36"/><br>
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>
   <span style="font-size:12px;">Spring Boot</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36" height="36"/><br>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>
   <span style="font-size:12px;">MySQL</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=html" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=html" width="36"/><br>
   <span style="font-size:12px;">HTML5</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=css" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=css" width="36"/><br>
   <span style="font-size:12px;">CSS3</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=vscode" width="36"/><br>
   <span style="font-size:12px;">VS Code</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=idea" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=idea" width="36"/><br>
   <span style="font-size:12px;">IntelliJ</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="36" height="36"/><br>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="36"/><br>
   <span style="font-size:12px;">Docker</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36"/><br>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/><br>
   <span style="font-size:12px;">Postman</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=git" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=git" width="44"/><br>
   <span style="font-size:12px;">Git</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=github" width="36"/><br>
   <span style="font-size:12px;">GitHub</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=spring" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=spring" width="36"/><br>
   <span style="font-size:12px;">Microservices</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=redis" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=redis" width="36"/><br>
   <span style="font-size:12px;">Redis</span>
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=kafka" width="36" height="36"/><br>
+  <img src="https://skillicons.dev/icons?i=kafka" width="36"/><br>
   <span style="font-size:12px;">Kafka</span>
 </td>
 
